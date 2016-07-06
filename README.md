@@ -2,6 +2,8 @@ Ferries
 ====
 
 ##Award
+###Dream It Code It Win It Finalist (Samsung Global Innovation Center: Unleashing Opportunities with Technology Award)
+
 https://dreamitcodeitwinit.wordpress.com/finalists-2015/
 
 ##Description- Project Looks Better on FireFox
